@@ -10,7 +10,7 @@ word.the_word = word.random_word();
 
 //Console.Write(word.the_word);
 
-Console.Write("Guess a letter");
+Console.Write("Guess a letter ");
 
 string guess = Console.ReadLine();
 
