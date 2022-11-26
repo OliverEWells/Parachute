@@ -45,8 +45,8 @@ class word {
         return word_list[random];
     }
 
-    string the_word = "";
-    char [] separated_word = {};
+    public string the_word = "";
+    public char [] separated_word = {};
     
 
 
