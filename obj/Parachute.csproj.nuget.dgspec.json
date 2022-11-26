@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\olive\\BYUI\\Fall_2022\\Parachute\\Parachute.csproj": {}
+    "C:\\Users\\olive\\BYUI\\Fall_2022\\Parachute\\Parachute\\Parachute.csproj": {}
   },
   "projects": {
-    "C:\\Users\\olive\\BYUI\\Fall_2022\\Parachute\\Parachute.csproj": {
+    "C:\\Users\\olive\\BYUI\\Fall_2022\\Parachute\\Parachute\\Parachute.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\olive\\BYUI\\Fall_2022\\Parachute\\Parachute.csproj",
+        "projectUniqueName": "C:\\Users\\olive\\BYUI\\Fall_2022\\Parachute\\Parachute\\Parachute.csproj",
         "projectName": "Parachute",
-        "projectPath": "C:\\Users\\olive\\BYUI\\Fall_2022\\Parachute\\Parachute.csproj",
+        "projectPath": "C:\\Users\\olive\\BYUI\\Fall_2022\\Parachute\\Parachute\\Parachute.csproj",
         "packagesPath": "C:\\Users\\olive\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\olive\\BYUI\\Fall_2022\\Parachute\\obj\\",
+        "outputPath": "C:\\Users\\olive\\BYUI\\Fall_2022\\Parachute\\Parachute\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\olive\\AppData\\Roaming\\NuGet\\NuGet.Config"
