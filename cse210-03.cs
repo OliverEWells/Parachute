@@ -1,8 +1,13 @@
 namespace HelloWorld{
 
 class parachute {
+<<<<<<< HEAD
     private void print_parachute(int guesses_left){
         if (guesses_left <= 0) {
+=======
+    public void print_parachute(int guesses_left){
+        if (guesses_left >= 4) {
+>>>>>>> 7134759edee0c509ef3174d68086a0a02f3f6920
          Console.WriteLine("   ___   ");}
         if (guesses_left <= 1) 
         {Console.WriteLine("  /___\\ ");}
