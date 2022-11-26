@@ -1,3 +1,5 @@
+namespace HelloWorld{
+
 class parachute {
     private void print_parachute(int guesses_left){
         if (guesses_left >= 4) {
@@ -77,3 +79,4 @@ class play {
     
 }
 
+}

@@ -1,1 +1,11 @@
-﻿public static void Main()
+﻿namespace HelloWorld {
+
+class paracute_game {
+
+public static void Main(){
+
+}
+
+}
+
+}
