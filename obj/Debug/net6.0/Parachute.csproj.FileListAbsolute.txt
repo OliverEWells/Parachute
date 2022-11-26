@@ -1,0 +1,15 @@
+C:\Users\olive\BYUI\Fall_2022\Parachute\bin\Debug\net6.0\Parachute.exe
+C:\Users\olive\BYUI\Fall_2022\Parachute\bin\Debug\net6.0\Parachute.deps.json
+C:\Users\olive\BYUI\Fall_2022\Parachute\bin\Debug\net6.0\Parachute.runtimeconfig.json
+C:\Users\olive\BYUI\Fall_2022\Parachute\bin\Debug\net6.0\Parachute.dll
+C:\Users\olive\BYUI\Fall_2022\Parachute\bin\Debug\net6.0\Parachute.pdb
+C:\Users\olive\BYUI\Fall_2022\Parachute\obj\Debug\net6.0\Parachute.csproj.AssemblyReference.cache
+C:\Users\olive\BYUI\Fall_2022\Parachute\obj\Debug\net6.0\Parachute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\BYUI\Fall_2022\Parachute\obj\Debug\net6.0\Parachute.AssemblyInfoInputs.cache
+C:\Users\olive\BYUI\Fall_2022\Parachute\obj\Debug\net6.0\Parachute.AssemblyInfo.cs
+C:\Users\olive\BYUI\Fall_2022\Parachute\obj\Debug\net6.0\Parachute.csproj.CoreCompileInputs.cache
+C:\Users\olive\BYUI\Fall_2022\Parachute\obj\Debug\net6.0\Parachute.dll
+C:\Users\olive\BYUI\Fall_2022\Parachute\obj\Debug\net6.0\refint\Parachute.dll
+C:\Users\olive\BYUI\Fall_2022\Parachute\obj\Debug\net6.0\Parachute.pdb
+C:\Users\olive\BYUI\Fall_2022\Parachute\obj\Debug\net6.0\Parachute.genruntimeconfig.cache
+C:\Users\olive\BYUI\Fall_2022\Parachute\obj\Debug\net6.0\ref\Parachute.dll

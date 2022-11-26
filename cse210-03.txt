@@ -1,0 +1,35 @@
+Program must have 4 classes, README file, classes and method comments
+
+classes are, parachute, word, guesses, play
+
+guesses
+-keeps track of the guesses that have been guessed
+-aka keeps a list that adds the guesses that have been guessed.
+-could have a function in it that only allows new letters to be guessed
+-prints out the letters that have been guessed
+
+so the whole layout of the thing needs to get printed out
+Theres a parachute which keeps track of the ammount of strings/chances you have left
+all it needs as an input is a true or false. If false, then it subtracts. If true, nothing happens
+to the parachute, but the word gets revealed
+-prints the parachute
+-chances are set
+-checks to see if letter was guessed, subtracts
+
+
+Then theres the word, it needs to be randomly generated and then split into a list with individual letter strings
+The guess needs to be checked against the word to see if the word has any of the letters in it
+That can be done with a for statement.
+-generate random word
+-seperates it into a list?
+-asks for the guess
+-check if the guess is in the word, returns true or false
+-prints out the word, revealing letter by letter
+
+
+play function
+-play function?
+-sets the parachute
+-sets the word
+-asks for the word.guess() returns true or false and modifies the word.revealed(), which prints it
+-parachute.guess(boolean) which prints it
