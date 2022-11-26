@@ -10,7 +10,7 @@ word.the_word = word.random_word();
 
 Console.Write(word.the_word);
 
-int guesses_left = 4;
+int guesses_left = 0;
 parachute parachute = new parachute();
 
 Console.WriteLine();

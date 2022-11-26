@@ -28,6 +28,14 @@ class word {
         
         return array;
     }
+
+    private char [] hidden(char [] word){
+        char [] hidden = {};
+        foreach (char letter in word){
+            hidden.Append('-');
+        }
+        return hidden;
+    }
     
 
     public char[] guess(char guess, char[] word, char[] reveal){
